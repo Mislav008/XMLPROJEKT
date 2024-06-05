@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mobiteli>
+  <mobitel>
+    <naziv>iPhone 15</naziv>
+    <proizvodac>Apple</proizvodac>
+    <cijena>999</cijena>
+    <karakteristike>
+      <karakteristika>128GB</karakteristika>
+      <karakteristika>5G</karakteristika>
+      <karakteristika>Dual Camera</karakteristika>
+    </karakteristike>
+  </mobitel>
+  <mobitel>
+    <naziv>Galaxy S22</naziv>
+    <proizvodac>Samsung</proizvodac>
+    <cijena>899</cijena>
+    <karakteristike>
+      <karakteristika>256GB</karakteristika>
+      <karakteristika>5G</karakteristika>
+      <karakteristika>Triple Camera</karakteristika>
+    </karakteristike>
+  </mobitel>
+  <mobitel>
+    <naziv>Xperia 5</naziv>
+    <proizvodac>Sony</proizvodac>
+    <cijena>499</cijena>
+    <karakteristike>
+      <karakteristika>128GB</karakteristika>
+      <karakteristika>4G</karakteristika>
+      <karakteristika>Dual Camera</karakteristika>
+    </karakteristike>
+  </mobitel>
+  <mobitel>
+    <naziv>Google Pixel 6A</naziv>
+    <proizvodac>Google</proizvodac>
+    <cijena>599</cijena>
+    <karakteristike>
+      <karakteristika>128GB</karakteristika>
+      <karakteristika>5G</karakteristika>
+      <karakteristika>Dual Camera</karakteristika>
+    </karakteristike>
+  </mobitel>
+</mobiteli>

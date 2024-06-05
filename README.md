@@ -1,0 +1,1 @@
+Za one koji bi željeli isprobati ovu stranicu na svom računalu kao i na vjezbama sve preuzete datoteke stavite u C:\xampp\htdocs\aplikacija\ te na windowsima to pokrenite pomoću ove poveznice http://localhost/aplikacija/index.php. 
